@@ -1,0 +1,404 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Evaleen",
+      "apellido": "Boal",
+      "email": "eboal0@sina.com.cn",
+      "genero": "F",
+      "edad": 44
+    },
+    {
+      "id": 2,
+      "nombre": "Price",
+      "apellido": "Toolan",
+      "email": "ptoolan1@apache.org",
+      "genero": "M",
+      "edad": 34
+    },
+    {
+      "id": 3,
+      "nombre": "Tripp",
+      "apellido": "Berrygun",
+      "email": "tberrygun2@harvard.edu",
+      "genero": "M",
+      "edad": 33
+    },
+    {
+      "id": 4,
+      "nombre": "Taite",
+      "apellido": "Giacubbo",
+      "email": "tgiacubbo3@addthis.com",
+      "genero": "M",
+      "edad": 42
+    },
+    {
+      "id": 5,
+      "nombre": "Horatio",
+      "apellido": "Tree",
+      "email": "htree4@dmoz.org",
+      "genero": "M",
+      "edad": 23
+    },
+    {
+      "id": 6,
+      "nombre": "Norby",
+      "apellido": "Wilce",
+      "email": "nwilce5@telegraph.co.uk",
+      "genero": "M",
+      "edad": 75
+    },
+    {
+      "id": 7,
+      "nombre": "Errick",
+      "apellido": "Wollard",
+      "email": "ewollard6@mozilla.com",
+      "genero": "M",
+      "edad": 34
+    },
+    {
+      "id": 8,
+      "nombre": "Karoline",
+      "apellido": "Skehens",
+      "email": "kskehens7@stanford.edu",
+      "genero": "F",
+      "edad": 61
+    },
+    {
+      "id": 9,
+      "nombre": "Lemmy",
+      "apellido": "Kinnach",
+      "email": "lkinnach8@devhub.com",
+      "genero": "M",
+      "edad": 73
+    },
+    {
+      "id": 10,
+      "nombre": "Myron",
+      "apellido": "Malim",
+      "email": "mmalim9@hud.gov",
+      "genero": "M",
+      "edad": 45
+    },
+    {
+      "id": 11,
+      "nombre": "Raquel",
+      "apellido": "Clarage",
+      "email": "rclaragea@bing.com",
+      "genero": "F",
+      "edad": 52
+    },
+    {
+      "id": 12,
+      "nombre": "Lothaire",
+      "apellido": "Beale",
+      "email": "lbealeb@gnu.org",
+      "genero": "M",
+      "edad": 74
+    },
+    {
+      "id": 13,
+      "nombre": "Bonita",
+      "apellido": "Ivshin",
+      "email": "bivshinc@hao123.com",
+      "genero": "F",
+      "edad": 36
+    },
+    {
+      "id": 14,
+      "nombre": "Meir",
+      "apellido": "Brandoni",
+      "email": "mbrandonid@ehow.com",
+      "genero": "M",
+      "edad": 67
+    },
+    {
+      "id": 15,
+      "nombre": "Johanna",
+      "apellido": "Swancott",
+      "email": "jswancotte@myspace.com",
+      "genero": "F",
+      "edad": 39
+    },
+    {
+      "id": 16,
+      "nombre": "Jeff",
+      "apellido": "Arnhold",
+      "email": "jarnholdf@omniture.com",
+      "genero": "M",
+      "edad": 74
+    },
+    {
+      "id": 17,
+      "nombre": "Baillie",
+      "apellido": "Titterton",
+      "email": "btittertong@samsung.com",
+      "genero": "M",
+      "edad": 40
+    },
+    {
+      "id": 18,
+      "nombre": "Annamaria",
+      "apellido": "Jewsbury",
+      "email": "ajewsburyh@uiuc.edu",
+      "genero": "F",
+      "edad": 47
+    },
+    {
+      "id": 19,
+      "nombre": "Vincents",
+      "apellido": "Resun",
+      "email": "vresuni@hibu.com",
+      "genero": "M",
+      "edad": 25
+    },
+    {
+      "id": 20,
+      "nombre": "Shoshana",
+      "apellido": "Foucar",
+      "email": "sfoucarj@sogou.com",
+      "genero": "F",
+      "edad": 21
+    },
+    {
+      "id": 21,
+      "nombre": "Maxie",
+      "apellido": "Jeenes",
+      "email": "mjeenesk@bigcartel.com",
+      "genero": "M",
+      "edad": 37
+    },
+    {
+      "id": 22,
+      "nombre": "Caril",
+      "apellido": "Tiron",
+      "email": "ctironl@ftc.gov",
+      "genero": "F",
+      "edad": 49
+    },
+    {
+      "id": 23,
+      "nombre": "Washington",
+      "apellido": "Rhelton",
+      "email": "wrheltonm@foxnews.com",
+      "genero": "M",
+      "edad": 41
+    },
+    {
+      "id": 24,
+      "nombre": "Bradford",
+      "apellido": "Collum",
+      "email": "bcollumn@auda.org.au",
+      "genero": "M",
+      "edad": 30
+    },
+    {
+      "id": 25,
+      "nombre": "Violetta",
+      "apellido": "Pynner",
+      "email": "vpynnero@privacy.gov.au",
+      "genero": "F",
+      "edad": 35
+    },
+    {
+      "id": 26,
+      "nombre": "Godfree",
+      "apellido": "Kilduff",
+      "email": "gkilduffp@etsy.com",
+      "genero": "M",
+      "edad": 31
+    },
+    {
+      "id": 27,
+      "nombre": "Letti",
+      "apellido": "Harfleet",
+      "email": "lharfleetq@oracle.com",
+      "genero": "F",
+      "edad": 72
+    },
+    {
+      "id": 28,
+      "nombre": "Granny",
+      "apellido": "Shoemark",
+      "email": "gshoemarkr@discuz.net",
+      "genero": "M",
+      "edad": 69
+    },
+    {
+      "id": 29,
+      "nombre": "Loralee",
+      "apellido": "Pessler",
+      "email": "lpesslers@shutterfly.com",
+      "genero": "F",
+      "edad": 24
+    },
+    {
+      "id": 30,
+      "nombre": "Meridel",
+      "apellido": "Westnedge",
+      "email": "mwestnedget@twitpic.com",
+      "genero": "F",
+      "edad": 29
+    },
+    {
+      "id": 31,
+      "nombre": "Prentice",
+      "apellido": "Ludl",
+      "email": "pludlu@jiathis.com",
+      "genero": "M",
+      "edad": 44
+    },
+    {
+      "id": 32,
+      "nombre": "Cary",
+      "apellido": "Bonsul",
+      "email": "cbonsulv@latimes.com",
+      "genero": "M",
+      "edad": 38
+    },
+    {
+      "id": 33,
+      "nombre": "Adelina",
+      "apellido": "Riley",
+      "email": "arileyw@netlog.com",
+      "genero": "F",
+      "edad": 39
+    },
+    {
+      "id": 34,
+      "nombre": "Orville",
+      "apellido": "Durnford",
+      "email": "odurnfordx@comsenz.com",
+      "genero": "M",
+      "edad": 65
+    },
+    {
+      "id": 35,
+      "nombre": "James",
+      "apellido": "Paudin",
+      "email": "jpaudiny@answers.com",
+      "genero": "M",
+      "edad": 37
+    },
+    {
+      "id": 36,
+      "nombre": "Emmey",
+      "apellido": "Dyers",
+      "email": "edyersz@github.com",
+      "genero": "F",
+      "edad": 36
+    },
+    {
+      "id": 37,
+      "nombre": "Vinny",
+      "apellido": "Spencer",
+      "email": "vspencer10@surveymonkey.com",
+      "genero": "F",
+      "edad": 18
+    },
+    {
+      "id": 38,
+      "nombre": "Susanetta",
+      "apellido": "Denslow",
+      "email": "sdenslow11@wsj.com",
+      "genero": "F",
+      "edad": 45
+    },
+    {
+      "id": 39,
+      "nombre": "Efren",
+      "apellido": "Blackler",
+      "email": "eblackler12@reverbnation.com",
+      "genero": "M",
+      "edad": 73
+    },
+    {
+      "id": 40,
+      "nombre": "Claudell",
+      "apellido": "Currington",
+      "email": "ccurrington13@wikipedia.org",
+      "genero": "M",
+      "edad": 27
+    },
+    {
+      "id": 41,
+      "nombre": "Gabriele",
+      "apellido": "Wallbank",
+      "email": "gwallbank14@yale.edu",
+      "genero": "M",
+      "edad": 49
+    },
+    {
+      "id": 42,
+      "nombre": "Sissy",
+      "apellido": "Huggons",
+      "email": "shuggons15@zimbio.com",
+      "genero": "F",
+      "edad": 34
+    },
+    {
+      "id": 43,
+      "nombre": "Conway",
+      "apellido": "Blankau",
+      "email": "cblankau16@wikia.com",
+      "genero": "M",
+      "edad": 69
+    },
+    {
+      "id": 44,
+      "nombre": "Susana",
+      "apellido": "Margrem",
+      "email": "smargrem17@ed.gov",
+      "genero": "F",
+      "edad": 66
+    },
+    {
+      "id": 45,
+      "nombre": "Doti",
+      "apellido": "MacKey",
+      "email": "dmackey18@etsy.com",
+      "genero": "F",
+      "edad": 55
+    },
+    {
+      "id": 46,
+      "nombre": "Kermy",
+      "apellido": "Coppens",
+      "email": "kcoppens19@amazonaws.com",
+      "genero": "M",
+      "edad": 38
+    },
+    {
+      "id": 47,
+      "nombre": "Tasia",
+      "apellido": "Corteis",
+      "email": "tcorteis1a@cdc.gov",
+      "genero": "F",
+      "edad": 31
+    },
+    {
+      "id": 48,
+      "nombre": "Lorianna",
+      "apellido": "Rides",
+      "email": "lrides1b@upenn.edu",
+      "genero": "F",
+      "edad": 51
+    },
+    {
+      "id": 49,
+      "nombre": "Shepperd",
+      "apellido": "Castelijn",
+      "email": "scastelijn1c@europa.eu",
+      "genero": "M",
+      "edad": 35
+    },
+    {
+      "id": 50,
+      "nombre": "Cheri",
+      "apellido": "Hubeaux",
+      "email": "chubeaux1d@shareasale.com",
+      "genero": "F",
+      "edad": 42
+    }
+  ]
+}
